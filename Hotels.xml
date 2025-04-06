@@ -16,10 +16,11 @@
   <Hotel>
     <Name>Hilton Garden Inn</Name>
     <Phone>480-123-4567</Phone>
+    <Phone>480-968-2180</Phone>
     <Rating>4.0</Rating>
     <Address NearestAirport="Phoenix Sky Harbor">
       <Number>86</Number>
-      <Street>S. College Ave</Street>
+      <Street>S. Rockford Dr</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -51,6 +52,7 @@
   <Hotel>
     <Name>Fairmont Scottsdale</Name>
     <Phone>480-987-6543</Phone>
+    <Phone>480-585-4848</Phone>
     <Rating>5.0</Rating>
     <Address NearestAirport="Scottsdale Airport">
       <Number>7575</Number>
