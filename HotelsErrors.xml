@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Hotel>
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Rating>4.2</Rating>
     <Address>
       <Number>11</Number>
       <Street>E 7th St</Street>
@@ -13,10 +12,9 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.0">
     <Name>Hilton Garden Inn</Name>
-    <Rating>4.0</Rating>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>86</Number>
       <Street>S College Ave</Street>
       <City>Tempe</City>
@@ -27,19 +25,18 @@
   <Hotel>
     <Name>Hyatt Place</Name>
     <Phone>480-222-3333</Phone>
-    <Address NearestAirport="Phoenix-Mesa Gateway">
+    <Address NearstAirport="Phoenix-Mesa Gateway">
       <Number>601</Number>
       <Street>E 6th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.5">
     <Name>Marriott Resort</Name>
     <Name>Duplicate Name</Name>
     <Phone>480-555-6666</Phone>
-    <Rating>4.5</Rating>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>200</Number>
       <Street>N Mill Ave</Street>
       <City>Tempe</City>
@@ -47,11 +44,10 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="5.0">
     <Name>Fairmont Scottsdale</Name>
     <Phone>480-987-6543</Phone>
-    <Rating>5.0</Rating>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address NearstAirport="Scottsdale Airport">
       <Number>7575</Number>
       <Street>E Princess Dr</Street>
       <City>Scottsdale</City>
@@ -62,7 +58,7 @@
   <Hotel>
     <Name>Sheraton Downtown</Name>
     <Phone>602-333-0000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>340</Number>
       <Street>N 3rd St</Street>
       <City>Phoenix</City>
@@ -70,11 +66,10 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.3">
     <Name>Renaissance Phoenix</Name>
     <Phone>602-262-2500</Phone>
-    <Rating>4.3</Rating>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>100</Number>
       <Street>N 1st St</Street>
       <City>Phoenix</City>
@@ -82,11 +77,10 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>Crowne Plaza</Name>
     <Phone>480-900-0001</Phone>
-    <Rating>4.1</Rating>
-    <Address NearestAirport="Deer Valley Airport">
+    <Address NearstAirport="Deer Valley Airport">
       <Number>2532</Number>
       <Street>W Peoria Ave</Street>
       <City>Phoenix</City>
@@ -97,7 +91,7 @@
   <Hotel>
     <Name>Hampton Inn</Name>
     <Phone>623-321-1234</Phone>
-    <Address NearestAirport="Glendale Municipal">
+    <Address NearstAirport="Glendale Municipal">
       <Number>8401</Number>
       <Street>W McDowell Rd</Street>
       <City>Phoenix</City>
@@ -105,11 +99,10 @@
       <Zip>85037</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="3.8">
     <Name>Holiday Inn Express</Name>
     <Phone>623-932-0000</Phone>
-    <Rating>3.8</Rating>
-    <Address NearestAirport="Phoenix-Goodyear">
+    <Address NearstAirport="Phoenix-Goodyear">
       <Number>16771</Number>
       <Street>N 84th Ave</Street>
       <City>Peoria</City>
