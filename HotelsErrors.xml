@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--  This file intentionally includes XML schema violations for validation testing  -->
+<!--  Root element should be <Hotels>, but here it's mistakenly <Hotel>  -->
 <Hotel>
+  <!--  Valid hotel with rating and multiple phones  -->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -12,6 +15,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+  <!--  Missing Phone element; Address attribute misspelled (NearstAirport)  -->
   <Hotel Rating="4.0">
     <Name>Hilton Garden Inn</Name>
     <Address NearstAirport="Phoenix Sky Harbor">
@@ -22,6 +26,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+  <!--  Address is missing Zip element; attribute misspelled  -->
   <Hotel>
     <Name>Hyatt Place</Name>
     <Phone>480-222-3333</Phone>
@@ -32,6 +37,7 @@
       <State>AZ</State>
     </Address>
   </Hotel>
+  <!--  Duplicate <Name> element is invalid; attribute misspelled  -->
   <Hotel Rating="4.5">
     <Name>Marriott Resort</Name>
     <Name>Duplicate Name</Name>
@@ -44,6 +50,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+  <!--  Valid hotel  -->
   <Hotel Rating="5.0">
     <Name>Fairmont Scottsdale</Name>
     <Phone>480-987-6543</Phone>
@@ -55,6 +62,7 @@
       <Zip>85255</Zip>
     </Address>
   </Hotel>
+  <!--  Valid hotel  -->
   <Hotel>
     <Name>Sheraton Downtown</Name>
     <Phone>602-333-0000</Phone>
@@ -66,6 +74,7 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+  <!--  Valid hotel  -->
   <Hotel Rating="4.3">
     <Name>Renaissance Phoenix</Name>
     <Phone>602-262-2500</Phone>
@@ -77,6 +86,7 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+  <!--  Valid hotel  -->
   <Hotel Rating="4.1">
     <Name>Crowne Plaza</Name>
     <Phone>480-900-0001</Phone>
@@ -88,6 +98,7 @@
       <Zip>85029</Zip>
     </Address>
   </Hotel>
+  <!--  Valid hotel  -->
   <Hotel>
     <Name>Hampton Inn</Name>
     <Phone>623-321-1234</Phone>
@@ -99,6 +110,7 @@
       <Zip>85037</Zip>
     </Address>
   </Hotel>
+  <!--  Valid hotel  -->
   <Hotel Rating="3.8">
     <Name>Holiday Inn Express</Name>
     <Phone>623-932-0000</Phone>
