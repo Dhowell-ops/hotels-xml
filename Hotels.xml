@@ -7,7 +7,7 @@
     <Rating>4.2</Rating>
     <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E. 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -19,7 +19,7 @@
     <Rating>4.0</Rating>
     <Address NearestAirport="Phoenix Sky Harbor">
       <Number>86</Number>
-      <Street>S College Ave</Street>
+      <Street>S. College Ave</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -30,7 +30,7 @@
     <Phone>480-222-3333</Phone>
     <Address NearestAirport="Phoenix-Mesa Gateway">
       <Number>601</Number>
-      <Street>E 6th St</Street>
+      <Street>E. 6th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -42,7 +42,7 @@
     <Rating>4.5</Rating>
     <Address NearestAirport="Sky Harbor">
       <Number>200</Number>
-      <Street>N Mill Ave</Street>
+      <Street>N. Mill Ave</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -54,7 +54,7 @@
     <Rating>5.0</Rating>
     <Address NearestAirport="Scottsdale Airport">
       <Number>7575</Number>
-      <Street>E Princess Dr</Street>
+      <Street>E. Princess Dr</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
       <Zip>85255</Zip>
@@ -65,7 +65,7 @@
     <Phone>602-333-0000</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>340</Number>
-      <Street>N 3rd St</Street>
+      <Street>N. 3rd St</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85004</Zip>
@@ -77,7 +77,7 @@
     <Rating>4.3</Rating>
     <Address NearestAirport="Sky Harbor">
       <Number>100</Number>
-      <Street>N 1st St</Street>
+      <Street>N. 1st St</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85004</Zip>
@@ -89,7 +89,7 @@
     <Rating>4.1</Rating>
     <Address NearestAirport="Deer Valley Airport">
       <Number>2532</Number>
-      <Street>W Peoria Ave</Street>
+      <Street>W. Peoria Ave</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85029</Zip>
@@ -100,7 +100,7 @@
     <Phone>623-321-1234</Phone>
     <Address NearestAirport="Glendale Municipal">
       <Number>8401</Number>
-      <Street>W McDowell Rd</Street>
+      <Street>W. McDowell Rd</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85037</Zip>
@@ -112,7 +112,7 @@
     <Rating>3.8</Rating>
     <Address NearestAirport="Phoenix-Goodyear">
       <Number>16771</Number>
-      <Street>N 84th Ave</Street>
+      <Street>N. 84th Ave</Street>
       <City>Peoria</City>
       <State>AZ</State>
       <Zip>85382</Zip>
