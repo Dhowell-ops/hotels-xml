@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Hotels>
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Rating>4.2</Rating>
     <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E. 7th St</Street>
@@ -13,11 +12,10 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.0">
     <Name>Hilton Garden Inn</Name>
     <Phone>480-123-4567</Phone>
     <Phone>480-968-2180</Phone>
-    <Rating>4.0</Rating>
     <Address NearestAirport="Phoenix Sky Harbor">
       <Number>86</Number>
       <Street>S. Rockford Dr</Street>
@@ -37,10 +35,9 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.5">
     <Name>Marriott Resort</Name>
     <Phone>480-555-6666</Phone>
-    <Rating>4.5</Rating>
     <Address NearestAirport="Sky Harbor">
       <Number>200</Number>
       <Street>N. Mill Ave</Street>
@@ -49,11 +46,10 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="5.0">
     <Name>Fairmont Scottsdale</Name>
     <Phone>480-987-6543</Phone>
     <Phone>480-585-4848</Phone>
-    <Rating>5.0</Rating>
     <Address NearestAirport="Scottsdale Airport">
       <Number>7575</Number>
       <Street>E. Princess Dr</Street>
@@ -73,10 +69,9 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.3">
     <Name>Renaissance Phoenix</Name>
     <Phone>602-262-2500</Phone>
-    <Rating>4.3</Rating>
     <Address NearestAirport="Sky Harbor">
       <Number>100</Number>
       <Street>N. 1st St</Street>
@@ -85,10 +80,9 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>Crowne Plaza</Name>
     <Phone>480-900-0001</Phone>
-    <Rating>4.1</Rating>
     <Address NearestAirport="Deer Valley Airport">
       <Number>2532</Number>
       <Street>W. Peoria Ave</Street>
@@ -108,10 +102,9 @@
       <Zip>85037</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="3.8">
     <Name>Holiday Inn Express</Name>
     <Phone>623-932-0000</Phone>
-    <Rating>3.8</Rating>
     <Address NearestAirport="Phoenix-Goodyear">
       <Number>16771</Number>
       <Street>N. 84th Ave</Street>
